@@ -13,7 +13,11 @@
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="31">
         <activity
+<<<<<<< HEAD
             android:name=".NewActivity"
+=======
+            android:name=".AnotherActivity"
+>>>>>>> another_branch
             android:exported="false" />
         <activity
             android:name=".SecondActivity"
